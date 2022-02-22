@@ -1,4 +1,4 @@
-package com.hk.main.java.Arrays;
+package com.hk.main.java.Karrat;
 
 public class CheckBlackCells {
 
