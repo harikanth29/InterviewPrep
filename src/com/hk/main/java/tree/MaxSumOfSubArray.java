@@ -17,7 +17,7 @@ public class MaxSumOfSubArray {
         int end = 0;
         int s =0;
         List<String> lst = new ArrayList<>();
-        lst.
+//        lst.
         for (int i = 0; i <= arr.length - 1; i++) {
             if (arr[i] > 0)
                 allNegative = false;

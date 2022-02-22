@@ -12,9 +12,9 @@ public class List {
         list = new Object[50];
     }
 
-    public void add(Object o){
-        list
-    }
+//    public void add(Object o){
+////        list
+//    }
     
     public static void main(String[] args) {
         // TODO Auto-generated method stub
